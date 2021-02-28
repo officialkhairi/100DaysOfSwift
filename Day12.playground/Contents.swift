@@ -136,3 +136,5 @@ for pet in pets {
         dog.makeNoise()
     }
 }
+
+type(of: pets)
