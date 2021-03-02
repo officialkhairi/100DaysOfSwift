@@ -97,7 +97,7 @@ class CTOCoder: Coder {
     }
     
     override func writeCode() {
-        print("Heavy coding level is \(codingLevel)/10")
+        print("Heavy coding level is\(codingLevel)/10")
     }
 }
 
